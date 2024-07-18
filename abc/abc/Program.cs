@@ -10,6 +10,7 @@ namespace abc
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(123);
         }
     }
 }
